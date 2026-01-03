@@ -391,7 +391,7 @@ def main():
         layout="wide"
     )
     
-    st.title("🎬 Movie Recommendation Chatbot")
+    st.title("🎬 FusionTalk ")
     st.markdown("### Ask me for movie recommendations - I learn your preferences!")
     
     # Initialize system
@@ -529,4 +529,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
